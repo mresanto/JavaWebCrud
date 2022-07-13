@@ -1,13 +1,9 @@
 [![jstl: ^1.2](https://img.shields.io/badge/jstl%3A-%201.2-blue.svg?style=flat)](http://www.java2s.com/Code/Jar/j/Downloadjstl12jar.htm)
 [![mysql-connector-java: 8.0.29](https://img.shields.io/badge/mysqlconnectorjava%3A-%208.0.29-blue.svg?style=flat)](https://dev.mysql.com/downloads/connector/j)
 
-# JavaWebCrud
-
-Esta aplicação foi desenvolvida em Java com Boostrasp e utilizando o banco de dados MySQL, fazendo apenas um CRUD de login. A finalidade desse projeto foi para desenvolvimento de estágio.
-
 ## ☕ Sobre esse Projeto
 
-Esse projeto foi desenvolvido para o teste de Java/Web do programa de estágio da nube.
+Esta aplicação foi desenvolvida em Java Web JSP com banco de dados MySQL, fazendo CRUD de cadastros de logins. Fiz esse projeto com a finalidade de participar de um processo seletivo de estágio, porém acabei gostando bastante de fazer este desenvolvimento, pois utilizei JSP, Servlets e Materialize CSS
 
 ## 📸 Galeria
 
