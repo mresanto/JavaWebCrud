@@ -4,14 +4,14 @@
 
 ## ☕ Sobre esse Projeto
 
-Esta aplicação foi desenvolvida em Java Web JSP com banco de dados MySQL, fazendo CRUD de cadastros de logins. Fiz esse projeto com a finalidade de participar de um processo seletivo de estágio, porém acabei gostando bastante de fazer este desenvolvimento, pois utilizei JSP, Servlets e Materialize CSS
+Esta aplicação foi desenvolvida em Java Web JSP com banco de dados MySQL, fazendo CRUD de cadastros de logins. Fiz esse projeto com a finalidade de participar de um processo seletivo de estágio, porém acabei gostando bastante de fazer este desenvolvimento, pois utilizei Interfaces, JSP, Servlets e Materialize CSS, e algumas tecnicas de design patterns para fazer a organização do código.
 
 ## 📸 Galeria
 
 https://user-images.githubusercontent.com/66914500/178740085-a40fb73c-353d-4e3b-afd7-a40b1855204f.mp4
 
 
-Necessário realizar a instalação das aplicações/frameworks abaixo:
+Necessário realizar a instalação das ferramentas/frameworks abaixo:
 
 [TomCat 8.5](https://tomcat.apache.org/download-80.cgi*)
 
